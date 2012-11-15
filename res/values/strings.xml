@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MyCamera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_my_camera">Camera</string>
+	<string name="capture">拍照</string>
+	<string name="see">观看</string>
+	<string name="image">Image</string>
+</resources>
